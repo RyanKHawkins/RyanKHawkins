@@ -16,3 +16,8 @@
 - [Twitch](https://www.twitch.tv/ryankhawkins)
 
 
+### Learning Goals
+- _ coming soon _
+
+### Favorite MVP Projects
+- [CryptoConverter](https://github.com/F5DevLife/JS-CryptoConverter) _ (to be renamed) _
