@@ -20,4 +20,4 @@
 - _ coming soon _
 
 ### Favorite MVP Projects
-- [CryptoConverter](https://github.com/F5DevLife/JS-CryptoConverter) _ (to be renamed) _
+- [CryptoConverter](https://github.com/F5DevLife/JS-CryptoConverter)
