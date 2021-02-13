@@ -9,7 +9,7 @@
 ### Current Projects:
 - [Roulette](https://github.com/F5DevLife/Roulette)
 - ~~[Farkle](https://github.com/F5DevLife/Farkle)~~ (_no longer in progress_)
-- Yahtzee _ (starting soon...) _
+- Yahtzee (_starting soon..._)
 
 
 ### Social Media:
@@ -18,7 +18,7 @@
 
 
 ### Learning Goals
-- _ coming soon _
+- _coming soon_
 
 ### Favorite MVP Projects
 - [CryptoConverter](https://github.com/F5DevLife/JS-CryptoConverter)
