@@ -18,7 +18,9 @@
 
 
 ### Learning Goals
-- _coming soon_
+- #### Recursion
+- #### Async/Await
+- React JS
 
 ### Favorite MVP Projects
 - [CryptoConverter](https://github.com/F5DevLife/JS-CryptoConverter)
