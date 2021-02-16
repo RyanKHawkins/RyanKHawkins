@@ -18,8 +18,8 @@
 
 
 ### Learning Goals
-- #### Recursion
-- #### Async/Await
+- Recursion
+- Async/Await
 - React JS
 
 ### Favorite MVP Projects
