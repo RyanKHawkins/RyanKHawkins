@@ -8,7 +8,6 @@
 
 ### Current Projects:
 - [Roulette](https://github.com/F5DevLife/Roulette)
-- ~~[Farkle](https://github.com/F5DevLife/Farkle)~~ (_no longer in progress_)
 - Yahtzee (_starting soon..._)
 
 
@@ -18,9 +17,10 @@
 
 
 ### Learning Goals
+- React JS
 - Recursion
 - Async/Await
-- React JS
+
 
 ### Favorite MVP Projects
 - [CryptoConverter](https://github.com/F5DevLife/JS-CryptoConverter)
