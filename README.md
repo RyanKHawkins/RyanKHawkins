@@ -7,7 +7,7 @@
 
 
 ### Current Projects:
-- [Roulette](https://github.com/F5DevLife/Roulette)
+- [Roulette](https://f5devlife.github.io/Roulette/)
 - Yahtzee (_starting soon..._)
 
 
