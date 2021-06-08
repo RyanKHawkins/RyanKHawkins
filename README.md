@@ -1,4 +1,4 @@
-#### Hello, my name is Ryan Hawkins. My username on Twitter and here is **F5DevLife**, because becoming a software developer will be my fresh start in my second career. I've been a correctional officer for the past 16+ years, and now I'm looking for something new that excites me; I believe programming will be a good fit for me.
+#### Hello, my name is Ryan Hawkins. My new favorite username is F5DevLife, because becoming a software developer will be my fresh start in a second career. I've been a correctional officer for the past 16+ years, and now I'm looking for something new that excites me; I believe programming will be a good fit for me.
 
 ### Favorite Languages:
 - Javascript
@@ -17,9 +17,10 @@
 
 
 ### Learning Goals
+- Async/Await
 - React JS
 - Recursion
-- Async/Await
+
 
 
 ### Favorite MVP Projects
