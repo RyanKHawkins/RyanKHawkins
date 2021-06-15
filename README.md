@@ -10,7 +10,7 @@
 
 ### Current Projects:
 - Gambling Casino Simulator
-    - [Gamble](https://github.com/F5DevLife/Gamble) (rough draft)
+    - [Gamble](https://f5devlife.github.io/Gamble/) (rough draft)
 - New project(s) (_starting soon..._)
 
 
