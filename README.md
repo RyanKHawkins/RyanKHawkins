@@ -2,15 +2,16 @@
 
 #### I believe programming will be a good fit for me.
 
-### Favorite Languages:
+### Languages, Frameworks, and Tools:
 - Javascript
 - Python
 - HTML/CSS
 
 
 ### Current Projects:
-- Gambling Casino Simulator
-    - [Gamble](https://f5devlife.github.io/Gamble/) (rough draft)
+- Gambling Casino Simulator (rough drafts)
+    - Gamble - [Github](https://github.com/F5DevLife/Gamble) | [play](https://f5devlife.github.io/Gamble/)
+    - Number Collapse - [Github](https://github.com/F5DevLife/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Gamble/)
 - New project(s) (_starting soon..._)
 
 
@@ -20,11 +21,10 @@
 
 
 ### Learning Goals
-- Javascript - Async/Await
+- Javascript - Async/Await/Promises
 - React JS
 - Javascript - Recursion
 - CSS Grid (and other layouts)
-
 
 
 ### Favorite MVP Projects
