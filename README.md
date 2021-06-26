@@ -10,8 +10,8 @@
 
 ### Current Projects:
 - Gambling Casino Simulator (rough drafts)
-    - Gamble - [Github](https://github.com/F5DevLife/Gamble) | [play](https://f5devlife.github.io/Gamble/)
-    - Number Collapse - [Github](https://github.com/F5DevLife/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Gamble/)
+    - Gamble - [review](https://github.com/F5DevLife/Gamble) | [play](https://f5devlife.github.io/Gamble/)
+    - Number Collapse - [review](https://github.com/F5DevLife/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Gamble/)
 - New project(s) starting soon...
 
 
