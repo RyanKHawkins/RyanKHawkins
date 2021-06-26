@@ -23,6 +23,7 @@
 ### Learning Goals
 - CSS Grid (and other layouts)
 - Javascript - Async/Await
+- Javascript - Global variables and Hoisting
 - React JS
 - Javascript - Recursion
 
