@@ -1,6 +1,6 @@
-#### Hello, my name is Ryan Hawkins. My new favorite username is F5DevLife, because becoming a software developer will be my fresh start to a second career. I've been a correctional officer for the past 17+ years, and now I'm looking for something new that excites me.
+#### Hello. My name is Ryan Hawkins. _Software_ and _game development_ excites my brain; It requires a balance of logic and creativity. I am currently on the path to becoming a self-taught programmer for my second career. For the past 17+ years, I've been a correctional officer, and now I'm looking for something new and more fulfilling.
 
-#### I believe programming will be a good fit for me.
+#### Programming is my future.
 
 ### Languages, Frameworks, and Tools:
 - Javascript
@@ -12,7 +12,7 @@
 - Gambling Casino Simulator (rough drafts)
     - Gamble - [Github](https://github.com/F5DevLife/Gamble) | [play](https://f5devlife.github.io/Gamble/)
     - Number Collapse - [Github](https://github.com/F5DevLife/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Gamble/)
-- New project(s) (_starting soon..._)
+- New project(s) starting soon...
 
 
 ### Social Media:
@@ -21,10 +21,10 @@
 
 
 ### Learning Goals
-- Javascript - Async/Await/Promises
+- CSS Grid (and other layouts)
+- Javascript - Async/Await
 - React JS
 - Javascript - Recursion
-- CSS Grid (and other layouts)
 
 
 ### Favorite MVP Projects
