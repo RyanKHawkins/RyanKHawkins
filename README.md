@@ -12,6 +12,10 @@
 - Gambling Casino Simulator (rough drafts)
     - Gamble - [review](https://github.com/F5DevLife/Gamble) | [play](https://f5devlife.github.io/Gamble/)
     - Number Collapse - [review](https://github.com/F5DevLife/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Gamble/)
+    - BlackJack (_coming soon_)
+    - Poker (_coming soon_)
+    - Slots (_coming soon_)
+    - Roulette (_coming soon_)
 - New project(s) starting soon...
 
 
