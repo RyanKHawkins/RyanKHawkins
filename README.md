@@ -9,13 +9,14 @@
 
 
 ### Current Projects:
-- Gambling Casino Simulator (rough drafts)
+- Gambling Casino Simulator (_in progress_)
     - Gamble - [review](https://github.com/F5DevLife/Gamble) | [play](https://f5devlife.github.io/Gamble/)
     - Number Collapse - [review](https://github.com/F5DevLife/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Gamble/)
     - BlackJack (_coming soon_)
     - Poker (_coming soon_)
     - Slots (_coming soon_)
     - Roulette (_coming soon_)
+- CryptoConverter (_in progress_) - [review](https://github.com/F5DevLife/JS-CryptoConverter) | [try](https://f5devlife.github.io/JS-CryptoConverter)
 - New project(s) starting soon...
 
 
