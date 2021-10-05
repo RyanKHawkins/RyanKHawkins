@@ -1,4 +1,4 @@
-#### Hello. My name is Ryan Hawkins. _Software_ and _game development_ excites my brain; It requires a balance of logic and creativity. I am currently on the path to becoming a self-taught programmer for my second career. For the past 17+ years, I've been a correctional officer, and now I'm looking for something new and more fulfilling.
+#### Welcome. My name is Ryan Hawkins. _Software_ and _game development_ excite me, because they require a balance of logic and creativity. I am currently on the path to becoming a self-taught programmer for my second career. For the past 17+ years, I've been a correctional officer, and now I'm looking for something new and more fulfilling.
 
 #### Programming is my future.
 
