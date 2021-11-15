@@ -17,7 +17,7 @@
     - Poker (_coming soon_)
     - Slots (_coming soon_)
     - Roulette (_coming soon_)
-- CryptoConverter (_in progress_) - [review](https://github.com/F5DevLife/JS-CryptoConverter) | [try](https://f5devlife.github.io/JS-CryptoConverter)
+- CryptoConverter - [review](https://github.com/F5DevLife/JS-CryptoConverter) | [try](https://f5devlife.github.io/JS-CryptoConverter)
 - New project(s) starting soon...
 
 
@@ -35,4 +35,5 @@
 
 
 ### Favorite MVP Projects
-- 
+- [Number Collapse](https://github.com/F5DevLife/Hi-Low-Number-Collapse)
+- [CryptoConverter](https://github.com/F5DevLife/JS-CryptoConverter)
