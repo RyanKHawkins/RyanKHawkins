@@ -1,6 +1,7 @@
-#### Welcome. My name is Ryan Hawkins. _Software_ and _game development_ excite me, because they require a balance of logic and creativity. I am currently on the path to becoming a self-taught programmer for my second career. For the past 17+ years, I've been a correctional officer, and now I'm looking for something new and more fulfilling.
+### Welcome. My name is Ryan Hawkins. I am a **software** engineer. 
 
-#### Programming is my future.
+#### _Software_ and _game development_ excite me, because they require a balance of logic and creativity. I am on the path to becoming a paid programmer for my second career. For the past 17+ years, I've been a correctional officer, and now I'm looking for something new and more fulfilling.
+
 
 ### Languages, Frameworks, and Tools:
 - Javascript
@@ -9,31 +10,28 @@
 
 
 ### Current Projects:
+
+- CryptoConverter - [review](https://github.com/RyanKHawkins/JS-CryptoConverter) | [try](https://f5devlife.github.io/JS-CryptoConverter)
 - Gambling Casino Simulator (_in progress_)
-    - Gamble - [review](https://github.com/F5DevLife/Gamble) | [play](https://f5devlife.github.io/Gamble/)
-    - Number Collapse - [review](https://github.com/F5DevLife/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Hi-Low-Number-Collapse/)
-    - Deal or No Deal - [review](https://github.com/F5DevLife/Deal-or-No-Deal)
-    - BlackJack (_coming soon_)
-    - Poker (_coming soon_)
-    - Slots (_coming soon_)
-    - Roulette (_coming soon_)
-- CryptoConverter - [review](https://github.com/F5DevLife/JS-CryptoConverter) | [try](https://f5devlife.github.io/JS-CryptoConverter)
+    - Gamble - [review](https://github.com/RyanKHawkins/Gamble) | [play](https://f5devlife.github.io/Gamble/)
+    - Number Collapse - [review](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Hi-Low-Number-Collapse/)
+    - _More to be added_
 - New project(s) starting soon...
 
 
 ### Social Media:
+- [Codewars](https://www.codewars.com/users/RyanKHawkins)
 - [Twitter](https://twitter.com/f5devlife)
 - [Twitch](https://www.twitch.tv/ryankhawkins)
 
 
-### Learning Goals
+### Current Learning Goals
 - CSS Grid (and other layouts)
 - Javascript - Async/Await
-- Javascript - Global variables and Hoisting
 - React JS
 - Javascript - Recursion
 
 
 ### Favorite MVP Projects
-- [Number Collapse](https://github.com/F5DevLife/Hi-Low-Number-Collapse)
-- [CryptoConverter](https://github.com/F5DevLife/JS-CryptoConverter)
+- [Number Collapse](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse)
+- [CryptoConverter](https://github.com/RyanKHawkins/JS-CryptoConverter)
