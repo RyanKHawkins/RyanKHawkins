@@ -20,7 +20,8 @@
 
 
 ### Social Media
-- [Codewars](https://www.codewars.com/users/RyanKHawkins) ![](https://www.codewars.com/users/RyanKHawkins/badges/micro)
+- [Codewars](https://www.codewars.com/users/RyanKHawkins) 
+    ![](https://www.codewars.com/users/RyanKHawkins/badges/micro)
 - [Twitter](https://twitter.com/f5devlife)
 - [Twitch](https://www.twitch.tv/ryankhawkins)
 
