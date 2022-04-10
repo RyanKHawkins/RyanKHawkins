@@ -23,6 +23,7 @@
 - [Codewars](https://www.codewars.com/users/RyanKHawkins) 
     ![](https://www.codewars.com/users/RyanKHawkins/badges/micro)
 - [Twitter](https://twitter.com/f5devlife)
+- ![Twitter](https://img.shields.io/badge/<f5devlife>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 - [Twitch](https://www.twitch.tv/ryankhawkins)
 
 
