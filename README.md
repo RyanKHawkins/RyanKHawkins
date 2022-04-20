@@ -1,6 +1,6 @@
-### Welcome. My name is Ryan Hawkins. I am a **software** engineer. 
+### Welcome. My name is Ryan Hawkins. I am a **software engineer**. 
 
-#### _Software_ and _game development_ excite me, because they require a balance of logic and creativity. I am on the path to becoming a paid programmer for my second career. For the past 17+ years, I've been a correctional officer, and now I'm looking for something new and more fulfilling.
+#### _Software development_ excites me. The combination using logic and creativity to build tools or games is enriching and fulfilling.
 
 
 ### Languages, Frameworks, and Tools
@@ -20,18 +20,16 @@
 
 
 ### Social Media
-- [Codewars](https://www.codewars.com/users/RyanKHawkins) 
-    ![](https://www.codewars.com/users/RyanKHawkins/badges/micro)
+- [Codewars](https://www.codewars.com/users/RyanKHawkins)
+  ![](https://www.codewars.com/users/RyanKHawkins/badges/micro)
 - [Twitter](https://twitter.com/f5devlife)
 - [Twitch](https://www.twitch.tv/ryankhawkins)
 
 
 ### Current Learning Goals
-- CSS Grid (and other layouts)
-- Javascript - Async/Await
+- CSS Grid 
 - NodeJS
 - React JS
-- Javascript - Recursion
 
 
 ### Favorite MVP Projects
