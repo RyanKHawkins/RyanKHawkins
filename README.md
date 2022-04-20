@@ -1,6 +1,6 @@
 ### Welcome. My name is Ryan Hawkins. I am a **software engineer**. 
 
-#### _Software development_ excites me. The combination using logic and creativity to build tools or games is enriching and fulfilling.
+### _Software development_ excites me. The combination using logic and creativity to build tools or games is enriching and fulfilling.
 
 
 ### Languages, Frameworks, and Tools
