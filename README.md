@@ -8,10 +8,9 @@
 ### _Software Development_ excites me. The combination of using logic and creativity to build tools or games is enriching and fulfilling.
 
 
-### Languages, Frameworks, and Tools
-- Javascript
-- HTML/CSS
-- Python
+### MVP Projects
+- [Number Collapse](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse)
+- [CryptoConverter](https://github.com/RyanKHawkins/JS-CryptoConverter)
 
 
 ### Current Projects
@@ -24,12 +23,14 @@
 - New project(s) starting soon...!
 
 
+### Languages, Frameworks, and Tools
+- Javascript
+- HTML/CSS
+- Python
+
+
 ### Current Learning Goals
 - CSS Grid 
 - NodeJS
 - React JS
 
-
-### MVP Projects
-- [Number Collapse](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse)
-- [CryptoConverter](https://github.com/RyanKHawkins/JS-CryptoConverter)
