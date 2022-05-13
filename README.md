@@ -1,4 +1,4 @@
-![](https://www.codewars.com/users/RyanKHawkins/badges/micro)
+![](https://www.codewars.com/users/RyanKHawkins/badges/small)
 
 ### Welcome to my Github. My name is Ryan Hawkins. I am a **Software Engineer**. 
 
