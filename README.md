@@ -23,7 +23,6 @@
 
 ### Social Media
 - [Codewars](https://www.codewars.com/users/RyanKHawkins)
-
 - [Twitter](https://twitter.com/f5devlife)
 - [Twitch](https://www.twitch.tv/ryankhawkins)
 
@@ -34,6 +33,6 @@
 - React JS
 
 
-### Favorite MVP Projects
+### MVP Projects
 - [Number Collapse](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse)
 - [CryptoConverter](https://github.com/RyanKHawkins/JS-CryptoConverter)
