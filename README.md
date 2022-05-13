@@ -1,4 +1,4 @@
-### Welcome to my Github. My name is Ryan Hawkins. I am a **Software Engineer**. 
+### Welcome to my Github. My name is Ryan Hawkins. I am a **Software Engineer** @ 100Devs. 
 
 - [Codewars](https://www.codewars.com/users/RyanKHawkins)  ![](https://www.codewars.com/users/RyanKHawkins/badges/small)
 - [Twitter](https://twitter.com/f5devlife)
