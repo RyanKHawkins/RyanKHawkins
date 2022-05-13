@@ -1,7 +1,8 @@
 ### Welcome to my Github. My name is Ryan Hawkins. I am a **Software Engineer**. 
 
-[Codewars](https://www.codewars.com/users/RyanKHawkins)![](https://www.codewars.com/users/RyanKHawkins/badges/small)
-
+- [Codewars](https://www.codewars.com/users/RyanKHawkins)  ![](https://www.codewars.com/users/RyanKHawkins/badges/small)
+- [Twitter](https://twitter.com/f5devlife)
+- [LinkedIn](https://www.linkedin.com/in/ryankhawkins/)
 
 
 ### _Software Development_ excites me. The combination of using logic and creativity to build tools or games is enriching and fulfilling.
@@ -21,12 +22,6 @@
     - Number Collapse - [review](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Hi-Low-Number-Collapse/)
     - _More to be added_
 - New project(s) starting soon...!
-
-
-### Social Media
-- [Codewars](https://www.codewars.com/users/RyanKHawkins)
-- [Twitter](https://twitter.com/f5devlife)
-- [Twitch](https://www.twitch.tv/ryankhawkins)
 
 
 ### Current Learning Goals
