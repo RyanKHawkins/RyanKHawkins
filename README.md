@@ -1,6 +1,8 @@
-![](https://www.codewars.com/users/RyanKHawkins/badges/small)
-
 ### Welcome to my Github. My name is Ryan Hawkins. I am a **Software Engineer**. 
+
+[Codewars](https://www.codewars.com/users/RyanKHawkins)![](https://www.codewars.com/users/RyanKHawkins/badges/small)
+
+
 
 ### _Software Development_ excites me. The combination of using logic and creativity to build tools or games is enriching and fulfilling.
 
