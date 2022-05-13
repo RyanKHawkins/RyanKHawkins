@@ -1,6 +1,8 @@
-### Welcome. My name is Ryan Hawkins. I am a **software engineer**. 
+![](https://www.codewars.com/users/RyanKHawkins/badges/micro)
 
-### _Software development_ excites me. The combination using logic and creativity to build tools or games is enriching and fulfilling.
+### Welcome to my Github. My name is Ryan Hawkins. I am a **Software Engineer**. 
+
+### _Software Development_ excites me. The combination of using logic and creativity to build tools or games is enriching and fulfilling.
 
 
 ### Languages, Frameworks, and Tools
@@ -21,7 +23,7 @@
 
 ### Social Media
 - [Codewars](https://www.codewars.com/users/RyanKHawkins)
-  ![](https://www.codewars.com/users/RyanKHawkins/badges/micro)
+
 - [Twitter](https://twitter.com/f5devlife)
 - [Twitch](https://www.twitch.tv/ryankhawkins)
 
