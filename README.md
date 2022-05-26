@@ -4,7 +4,6 @@
 - [Codewars](https://www.codewars.com/users/RyanKHawkins)  ![](https://www.codewars.com/users/RyanKHawkins/badges/small)
 - [Twitter](https://twitter.com/f5devlife)
 - [LinkedIn](https://www.linkedin.com/in/ryankhawkins/)
-- ![icons8-linkedin-48.png](https://www.linkedin.com/in/ryankhawkins/)
 
 
 ### _Software Development_ excites me. The combination of using logic and creativity to build tools or games is enriching and fulfilling.
