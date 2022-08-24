@@ -1,6 +1,5 @@
 ### I am Ryan Hawkins, a **Software Engineer** @ 100Devs. 
 
-
 - [Codewars](https://www.codewars.com/users/RyanKHawkins)  ![](https://www.codewars.com/users/RyanKHawkins/badges/small)
 - [Twitter](https://twitter.com/f5devlife)
 - [LinkedIn](https://www.linkedin.com/in/ryankhawkins/)
@@ -35,3 +34,5 @@
 - NodeJS
 - React JS
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanKHawkins&theme=dark)](https://git.io/streak-stats)
