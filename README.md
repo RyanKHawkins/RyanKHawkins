@@ -1,8 +1,9 @@
 ### I am Ryan Hawkins, a **Software Engineer** @ 100Devs. 
 
-- [Codewars](https://www.codewars.com/users/RyanKHawkins)  ![](https://www.codewars.com/users/RyanKHawkins/badges/small)
-- [Twitter](https://twitter.com/f5devlife)
+- [Portfolio](https://www.ryankhawkins.dev)
 - [LinkedIn](https://www.linkedin.com/in/ryankhawkins/)
+- [Twitter](https://twitter.com/f5devlife)  
+- [Codewars](https://www.codewars.com/users/RyanKHawkins)  ![](https://www.codewars.com/users/RyanKHawkins/badges/small)
 
 
 ### _Software Development_ excites me. The combination of using logic and creativity to build tools or games is enriching and fulfilling.
