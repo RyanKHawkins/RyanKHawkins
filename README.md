@@ -10,8 +10,9 @@
 
 
 ### MVP Projects
-- [Number Collapse](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse)
 - [CryptoConverter](https://github.com/RyanKHawkins/JS-CryptoConverter)
+- [Number Collapse](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse)
+
 
 
 ### Current Projects
