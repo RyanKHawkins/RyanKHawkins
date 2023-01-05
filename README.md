@@ -6,7 +6,7 @@
 - [Codewars](https://www.codewars.com/users/RyanKHawkins)  ![](https://www.codewars.com/users/RyanKHawkins/badges/small)
 
 
-### _Software Development_ excites me. The combination of using logic and creativity to build tools or games is enriching and fulfilling.
+### _Software Development_ excites me. The combination of using logic and creativity to build apps, tools, and games is incredibly enriching and fulfilling.
 
 
 ### MVP Projects
