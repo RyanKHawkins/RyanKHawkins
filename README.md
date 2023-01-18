@@ -32,9 +32,10 @@
 
 
 ### Current Learning Goals
+- React JS
+- CSS Tailwind
 - CSS Grid 
 - NodeJS
-- React JS
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanKHawkins&theme=dark)](https://git.io/streak-stats)
