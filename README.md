@@ -22,10 +22,10 @@
     - Gamble - [review](https://github.com/RyanKHawkins/Gamble) | [play](https://f5devlife.github.io/Gamble/)
     - Number Collapse - [review](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Hi-Low-Number-Collapse/)
     - _More to be added_
-- New project(s) starting soon...!
+- New project(s) starting *always*...!
 
 
-### Languages, Frameworks, and Tools
+### Languages, Frameworks, Libraries, and Tools
 - Javascript
 - HTML/CSS
 - Python
