@@ -10,14 +10,14 @@
 
 
 ### MVP Projects
-- [CryptoConverter](https://github.com/RyanKHawkins/JS-CryptoConverter)
+- [CryptoConverter](https://github.com/RyanKHawkins/CryptoConverter)
 - [Number Collapse](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse)
 
 
 
 ### Current Projects
 
-- CryptoConverter - [review](https://github.com/RyanKHawkins/JS-CryptoConverter) | [try](https://RyanKHawkins.github.io/JS-CryptoConverter)
+- CryptoConverter - [review](https://github.com/RyanKHawkins/CryptoConverter) | [try](https://RyanKHawkins.github.io/CryptoConverter)
 - Gambling Casino Simulator (_in progress_)
     - Gamble - [review](https://github.com/RyanKHawkins/Gamble) | [play](https://f5devlife.github.io/Gamble/)
     - Number Collapse - [review](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse) | [play](https://f5devlife.github.io/Hi-Low-Number-Collapse/)
