@@ -11,6 +11,7 @@
 
 ### MVP Projects
 - [CryptoConverter](https://github.com/RyanKHawkins/CryptoConverter)
+- [Password Generator](https://github.com/RyanKHawkins/Password-Generator)
 - [Number Collapse](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse)
 
 
