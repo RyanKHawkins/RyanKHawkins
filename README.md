@@ -1,12 +1,13 @@
-### I am Ryan Hawkins, a **Software Engineer** @ 100Devs. 
+### Welcome to my Github page. I'm a **Software Engineer** @ 100Devs. 
 
 - [Portfolio](https://www.ryankhawkins.dev)
 - [LinkedIn](https://www.linkedin.com/in/ryankhawkins/)
+- [CodePen](https://codepen.io/RyanKHawkins)
 - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40f5devlife)](https://twitter.com/f5devlife)
 - [![](https://www.codewars.com/users/RyanKHawkins/badges/small)](https://www.codewars.com/users/RyanKHawkins)
 
 
-### _Software Development_ excites me. The combination of using logic and creativity to build apps, tools, and games is incredibly enriching and fulfilling.
+### _Software Development_ excites me. The combination of logic and creativity required to build apps, tools, and games is incredibly enriching and fulfilling.
 
 
 ### MVP Projects
