@@ -3,7 +3,7 @@
 - [Portfolio](https://www.ryankhawkins.dev)
 - [LinkedIn](https://www.linkedin.com/in/ryankhawkins/)
 - [CodePen](https://codepen.io/RyanKHawkins)
-- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40f5devlife)](https://twitter.com/f5devlife)
+- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40f5devlife)](https://twitter.com/f5devlife)
 - [![](https://www.codewars.com/users/RyanKHawkins/badges/small)](https://www.codewars.com/users/RyanKHawkins)
 
 
