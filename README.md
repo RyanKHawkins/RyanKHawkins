@@ -20,6 +20,7 @@
 ### Current Projects
 
 - CryptoConverter - [review](https://github.com/RyanKHawkins/CryptoConverter) | [try](https://RyanKHawkins.github.io/CryptoConverter)
+- Tic-Tac-Toe - [code](https://github.com/RyanKHawkins/Tic-Tac-Toe-JS) | [try](https://ryankhawkins.github.io/Tic-Tac-Toe-JS)
 - Gambling Casino Simulator (_in progress_)
     - Gamble - [review](https://github.com/RyanKHawkins/Gamble) | [play](https://RyanKHawkins.github.io/Gamble/)
     - Number Collapse - [review](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse) | [play](https://RyanKHawkins.github.io/Hi-Low-Number-Collapse/)
