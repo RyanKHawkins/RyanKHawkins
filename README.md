@@ -25,7 +25,7 @@
     - Gamble - [review](https://github.com/RyanKHawkins/Gamble) | [play](https://RyanKHawkins.github.io/Gamble/)
     - Number Collapse - [review](https://github.com/RyanKHawkins/Hi-Low-Number-Collapse) | [play](https://RyanKHawkins.github.io/Hi-Low-Number-Collapse/)
     - Roulette - [review](https://github.com/RyanKHawkins/Roulette) | [play](https://ryankhawkins.github.io/Roulette/)
-- New project(s) starting *always*...!
+- New project(s) *always* starting...
 
 
 ### Languages, Frameworks, Libraries, and Tools
